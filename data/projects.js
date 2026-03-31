@@ -12,10 +12,10 @@ const projects = [
   // ADD YOUR ENTRY HERE - copy the object below as your template
   {
     member: "Chong",
-    project: "DevTeam Hub",
-    description: "The team portfolio site you are looking at right now.",
+    project: "Sleeping",
+    description: "I want to sleep.",
     status: "in-progress",
-    github: "#jetwat",
+    github: "https://github.com/jetwat/group_project_03.git",
   },
   {
     member: "Ploy",
