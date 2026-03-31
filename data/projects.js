@@ -10,7 +10,7 @@
 
 const projects = [
   // ADD YOUR ENTRY HERE - copy the object below as your template
-
+  
   {
     member: "Team Lead",
     project: "DevTeam Hub",
