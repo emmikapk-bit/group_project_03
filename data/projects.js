@@ -19,12 +19,13 @@ const projects = [
   },
 
   {
-    member: "Team Lead",
+    member: "NIKE",
     project: "DevTeam Hub",
-    description: "The team portfolio site you are looking at right now.",
+    description: "All gods,ever heaven,and every hell reside within you.",
     status: "in-progress",
-    github: "#",
+    github: "https://github.com/phongphon1611/group_project_03",
   },
+
   {
     member: "TAR",
     project: "DevTeam Hub",
@@ -33,3 +34,4 @@ const projects = [
     github: "https://github.com/Sahatsawat-Wattana/group_project_03.git",
   },
 ];
+
