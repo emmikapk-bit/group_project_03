@@ -11,6 +11,13 @@
 const projects = [
   // ADD YOUR ENTRY HERE - copy the object below as your template
   {
+    member: "Chong",
+    project: "Sleeping",
+    description: "I want to sleep.",
+    status: "in-progress",
+    github: "https://github.com/jetwat/group_project_03.git",
+  },
+  {
     member: "Ploy",
     project: "DevTeam Hub",
     description: "The team portfolio site you are looking at right now.",
