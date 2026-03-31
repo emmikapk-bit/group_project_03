@@ -10,7 +10,6 @@
 
 const projects = [
   // ADD YOUR ENTRY HERE - copy the object below as your template
-
   {
     member: "Chong",
     project: "DevTeam Hub",
@@ -19,10 +18,18 @@ const projects = [
     github: "#jetwat",
   },
   {
-    member: "Team Lead",
+    member: "Ploy",
     project: "DevTeam Hub",
     description: "The team portfolio site you are looking at right now.",
     status: "in-progress",
-    github: "#",
+    github: "https://github.com/Nantanat-Poyomratanasin/group_project_03.git",
+  },
+
+  {
+    member: "NIKE",
+    project: "DevTeam Hub",
+    description: "All gods,ever heaven,and every hell reside within you.",
+    status: "in-progress",
+    github: "https://github.com/phongphon1611/group_project_03",
   },
 ];
